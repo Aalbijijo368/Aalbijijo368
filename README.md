@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology,Inovation and Sports
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me through my Email- aalbijijo04@gmail.com
+- 📫 You can contact me through my Email- aalbijijo24@gmail.com
 
 <!---
 Aalbijijo368/Aalbijijo368 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
